@@ -1,0 +1,2 @@
+﻿9nd_file
+test for Bug#3
