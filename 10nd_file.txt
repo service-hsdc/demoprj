@@ -1,0 +1,2 @@
+﻿10nd_file
+test for Issue#2
